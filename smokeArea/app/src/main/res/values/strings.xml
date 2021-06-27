@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">smokeArea</string>
-    <string name="client_id">r2zprcc9mt</string>
-    <string name="client_key">vZVduHERi9C2fKHtdjm2ulDMojy19VhdMiBRJjwB</string>
+    <string name="client_id">client id</string>
+    <string name="client_key">client secret</string>
 </resources>
