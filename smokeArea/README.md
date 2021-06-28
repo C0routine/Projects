@@ -32,6 +32,7 @@
 <br>
 
 ### 앱 구동 화면 
+<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea01.png" width="300" height="500">
 
 ![enter image description here](https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea01.png)
 <br>
