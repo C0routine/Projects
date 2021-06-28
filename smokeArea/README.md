@@ -32,16 +32,10 @@
 <br>
 
 ### 앱 구동 화면 
-<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea01.png" width="300" height="500">
-
-![enter image description here](https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea01.png)
-<br>
-![enter image description here](https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea02.png)
-<br>
-![enter image description here](https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea03.png)
-<br>
-![enter image description here](https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea04.png)
-
+<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea01.png" width="300" height="700">
+<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea02.png" width="300" height="700">
+<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea03.png" width="300" height="700">
+<img src="https://github.com/C0routine/Projects/blob/main/smokeArea/smokeArea04.png" width="300" height="700">
 
 <br><br>
 
